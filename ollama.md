@@ -9,5 +9,4 @@
 | ollama list	| List downloaded models|
 | ollama rm <model>	| Remove a model|
 | ollama serve	| Start the Ollama server|
-| ollama --version | Check the Ollama version|
 | ollama create	| Create a custom model using a Modelfile|
