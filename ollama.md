@@ -1,6 +1,6 @@
 
-#### Installation (MacOS/Linux)
-`curl -fsSL https://ollama.com/install.sh | sh` = install in linux  
+#### Installation (macOS/Linux)
+`curl -fsSL https://ollama.com/install.sh | sh`
 
 | Command	| Description |
 | -----------|-------------|
